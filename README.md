@@ -1,2 +1,0 @@
-# EventHandlingInReact
-Created with CodeSandbox
